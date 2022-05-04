@@ -24,7 +24,7 @@ namespace ConsoleApp14
                     id = i;
                 }
             }
-            Console.WriteLine(id);
+            Console.WriteLine($"Liczba {id} ma {max} dzielnikow");
         }
     }
 }
